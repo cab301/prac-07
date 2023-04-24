@@ -1,0 +1,55 @@
+╔═══════════════════════════════CatTests═══════════════════════════════╗
+╟──────────────Cat.IsValidName(null) should return false───────────────╢
+> Input:    IsValidName(null)
+> Expected: false
+> Actual:   False
+╟────────────────────────────────Passed────────────────────────────────╢
+╠══════════════════════════════════════════════════════════════════════╣
+╟──────────Cat.IsValidName(empty string) should return false───────────╢
+> Input:    
+> Expected: False
+> Actual:   False
+╟────────────────────────────────Passed────────────────────────────────╢
+╠══════════════════════════════════════════════════════════════════════╣
+╟────────Cat.IsValidName(name of length 9) should return false─────────╢
+> Input:    Fluffiest
+> Expected: False
+> Actual:   False
+╟────────────────────────────────Passed────────────────────────────────╢
+╠══════════════════════════════════════════════════════════════════════╣
+╟───────────Cat.IsValidName(name of > 9) should return false───────────╢
+> Input:    Woolloongabba
+> Expected: False
+> Actual:   False
+╟────────────────────────────────Passed────────────────────────────────╢
+╠══════════════════════════════════════════════════════════════════════╣
+╟─────────Cat.IsValidName(name of length 1) should return true─────────╢
+> Input:    A
+> Expected: True
+> Actual:   True
+╟────────────────────────────────Failed────────────────────────────────╢
+╠══════════════════════════════════════════════════════════════════════╣
+╟─────────Cat.IsValidName(name of length 8) should return true─────────╢
+> Input:    Fluffier
+> Expected: True
+> Actual:   True
+╟────────────────────────────────Failed────────────────────────────────╢
+╠══════════════════════════════════════════════════════════════════════╣
+╟──Cat.IsValidName(name of length between 2 and 7) should return true──╢
+> Input:    Cat
+> Expected: True
+> Actual:   True
+╟────────────────────────────────Failed────────────────────────────────╢
+╠══════════════════════════════════════════════════════════════════════╣
+╠═════════════════════════════Test Summary═════════════════════════════╣
+Passed:
+> Cat.IsValidName(null) should return false
+> Cat.IsValidName(empty string) should return false
+> Cat.IsValidName(name of length 9) should return false
+> Cat.IsValidName(name of > 9) should return false
+────────────────────────────────────────────────────────────────────────
+Failed:
+> Cat.IsValidName(name of length 1) should return true
+> Cat.IsValidName(name of length 8) should return true
+> Cat.IsValidName(name of length between 2 and 7) should return true
+╙─────────────────────────────4 / 7 passed─────────────────────────────╜

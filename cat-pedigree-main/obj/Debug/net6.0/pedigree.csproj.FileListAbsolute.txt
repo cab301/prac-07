@@ -1,0 +1,30 @@
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\bin\Debug\net6.0\pedigree.exe
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\bin\Debug\net6.0\pedigree.deps.json
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\bin\Debug\net6.0\pedigree.runtimeconfig.json
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\bin\Debug\net6.0\pedigree.dll
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\bin\Debug\net6.0\pedigree.pdb
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\obj\Debug\net6.0\pedigree.csproj.AssemblyReference.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\obj\Debug\net6.0\pedigree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\obj\Debug\net6.0\pedigree.AssemblyInfoInputs.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\obj\Debug\net6.0\pedigree.AssemblyInfo.cs
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\obj\Debug\net6.0\pedigree.csproj.CoreCompileInputs.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\obj\Debug\net6.0\pedigree.dll
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\obj\Debug\net6.0\refint\pedigree.dll
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\obj\Debug\net6.0\pedigree.pdb
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\obj\Debug\net6.0\pedigree.genruntimeconfig.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\pedigree\obj\Debug\net6.0\ref\pedigree.dll
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\bin\Debug\net6.0\pedigree.exe
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\bin\Debug\net6.0\pedigree.deps.json
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\bin\Debug\net6.0\pedigree.runtimeconfig.json
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\bin\Debug\net6.0\pedigree.dll
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\bin\Debug\net6.0\pedigree.pdb
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\obj\Debug\net6.0\pedigree.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\obj\Debug\net6.0\pedigree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\obj\Debug\net6.0\pedigree.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\obj\Debug\net6.0\pedigree.AssemblyInfo.cs
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\obj\Debug\net6.0\pedigree.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\obj\Debug\net6.0\pedigree.dll
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\obj\Debug\net6.0\refint\pedigree.dll
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\obj\Debug\net6.0\pedigree.pdb
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\obj\Debug\net6.0\pedigree.genruntimeconfig.cache
+C:\Users\MELTUser01\Downloads\cat-pedigree-main\obj\Debug\net6.0\ref\pedigree.dll

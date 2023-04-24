@@ -1,0 +1,13 @@
+╔═══════════════pedigree.PedigreeTests═══════════════╗
+╟──Test AddCat to empty pedigree should return true──╢
+> Input:    Paws
+> Expected: True
+> Actual:   True(Paws, 0)
+╟───────────────────────Passed───────────────────────╢
+╠════════════════════════════════════════════════════╣
+╠════════════════════Test Summary════════════════════╣
+Passed:
+> Test AddCat to empty pedigree should return true
+──────────────────────────────────────────────────────
+Failed:
+╙────────────────────1 / 1 passed────────────────────╜
