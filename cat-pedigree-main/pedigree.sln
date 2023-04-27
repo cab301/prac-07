@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pedigree", "pedigree.csproj", "{6EF7EB0A-3DE5-48BC-95D1-4E45155E63AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF7EB0A-3DE5-48BC-95D1-4E45155E63AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF7EB0A-3DE5-48BC-95D1-4E45155E63AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF7EB0A-3DE5-48BC-95D1-4E45155E63AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF7EB0A-3DE5-48BC-95D1-4E45155E63AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8B15AB9-AB7B-475D-907E-ACB8E2AA1144}
+	EndGlobalSection
+EndGlobal

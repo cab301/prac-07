@@ -1,0 +1,26 @@
+╔════════════════════════════════pedigree.PedigreeTests════════════════════════════════╗
+╟──────ToArray empty pedigree should return array of length 0 when using ToArray───────╢
+> Input:    Pedigree:
+
+> Expected: 0
+> Actual:   0
+╟────────────────────────────────────────Passed────────────────────────────────────────╢
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+╟──AddCat add multiple cats to empty pedigree should make a pedigree of multiple cats──╢
+> Input:    [Paws, Fluffy, Bunny, Cloud] with no mothers
+> Expected: [Paws, Fluffy, Bunny, Cloud] all with age 0
+> Actual:   Pedigree:
+Paws (0) and has sibling Fluffy
+Fluffy (0) and has sibling Bunny
+Bunny (0) and has sibling Cloud
+Cloud (0)
+
+╟────────────────────────────────────────Passed────────────────────────────────────────╢
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+╠═════════════════════════════════════Test Summary═════════════════════════════════════╣
+Passed:
+> ToArray empty pedigree should return array of length 0 when using ToArray
+> AddCat add multiple cats to empty pedigree should make a pedigree of multiple cats
+────────────────────────────────────────────────────────────────────────────────────────
+Failed:
+╙─────────────────────────────────────2 / 2 passed─────────────────────────────────────╜

@@ -1,0 +1,13 @@
+╔═══════════════════════════pedigree.PedigreeTests════════════════════════════╗
+╟──ToArray empty pedigree should return array of length 0 when using ToArray──╢
+> Input:    Pedigree:/n
+> Expected: 0
+> Actual:   0
+╟───────────────────────────────────Passed────────────────────────────────────╢
+╠═════════════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════Test Summary═════════════════════════════════╣
+Passed:
+> ToArray empty pedigree should return array of length 0 when using ToArray
+───────────────────────────────────────────────────────────────────────────────
+Failed:
+╙────────────────────────────────1 / 1 passed─────────────────────────────────╜

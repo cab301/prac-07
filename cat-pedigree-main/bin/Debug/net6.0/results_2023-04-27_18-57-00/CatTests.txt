@@ -1,0 +1,13 @@
+╔══════════════════CatTests═══════════════════╗
+╟──Cat.IsValidName(null) should return false──╢
+> Input:    IsValidName(null)
+> Expected: false
+> Actual:   False
+╟───────────────────Passed────────────────────╢
+╠═════════════════════════════════════════════╣
+╠════════════════Test Summary═════════════════╣
+Passed:
+> Cat.IsValidName(null) should return false
+───────────────────────────────────────────────
+Failed:
+╙────────────────1 / 1 passed─────────────────╜
