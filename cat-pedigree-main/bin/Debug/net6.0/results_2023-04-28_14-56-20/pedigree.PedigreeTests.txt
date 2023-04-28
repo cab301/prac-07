@@ -1,0 +1,23 @@
+╔══════════════════════pedigree.PedigreeTests═══════════════════════╗
+╟──Add cat with invalid name to empty pedigree should return false──╢
+> Input:    AddCat(null) to Empty pedigree
+> Expected: False
+> Actual:   False
+╟──────────────────────────────Passed───────────────────────────────╢
+╠═══════════════════════════════════════════════════════════════════╣
+╟───Add cat with valid name to empty pedigree should return true────╢
+> Input:    AddCat(Paws) to Empty pedigree
+> Expected: True. Pedigree should contain Paws
+
+> Actual:   True. Pedigree:
+Paws (0)
+
+╟──────────────────────────────Passed───────────────────────────────╢
+╠═══════════════════════════════════════════════════════════════════╣
+╠═══════════════════════════Test Summary════════════════════════════╣
+Passed:
+> Add cat with invalid name to empty pedigree should return false
+> Add cat with valid name to empty pedigree should return true
+─────────────────────────────────────────────────────────────────────
+Failed:
+╙───────────────────────────2 / 2 passed────────────────────────────╜
